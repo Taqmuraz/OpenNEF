@@ -1,0 +1,13 @@
+D:\VisualStudioProjects\OpenNEF\bin\Debug\OpenNEF.exe.config
+D:\VisualStudioProjects\OpenNEF\bin\Debug\OpenNEF.exe
+D:\VisualStudioProjects\OpenNEF\bin\Debug\OpenNEF.pdb
+D:\VisualStudioProjects\OpenNEF\obj\Debug\OpenNEF.csproj.AssemblyReference.cache
+D:\VisualStudioProjects\OpenNEF\obj\Debug\OpenNEF.csproj.SuggestedBindingRedirects.cache
+D:\VisualStudioProjects\OpenNEF\obj\Debug\OpenNEF.csproj.CoreCompileInputs.cache
+D:\VisualStudioProjects\OpenNEF\obj\Debug\OpenNEF.exe
+D:\VisualStudioProjects\OpenNEF\obj\Debug\OpenNEF.pdb
+D:\VisualStudioProjects\OpenNEF\bin\Debug\Magick.NET-Q16-AnyCPU.dll
+D:\VisualStudioProjects\OpenNEF\bin\Debug\Magick.NET.Core.dll
+D:\VisualStudioProjects\OpenNEF\bin\Debug\Magick.NET-Q16-AnyCPU.xml
+D:\VisualStudioProjects\OpenNEF\bin\Debug\Magick.NET.Core.xml
+D:\VisualStudioProjects\OpenNEF\obj\Debug\OpenNEF.csproj.CopyComplete

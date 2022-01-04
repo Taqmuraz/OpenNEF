@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ed47c838-234e-42e7-b0f6-ecc6a7c099ae": {
+      "ProjectGuid": "ed47c838-234e-42e7-b0f6-ecc6a7c099ae",
+      "DisplayName": "OpenNEF",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
